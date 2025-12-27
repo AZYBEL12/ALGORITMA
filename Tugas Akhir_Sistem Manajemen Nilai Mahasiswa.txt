@@ -1,0 +1,15 @@
+231011001,Andi Pratama,81.70,B
+231011002,Siti Aisyah,84.80,B
+231011003,Budi Santoso,77.90,B
+231011004,Rina Hasna,87.70,A
+231011005,Dimas Saputra,76.00,B
+231011006,Nurul Hidayah,90.40,A
+231011007,Fajar Nugroho,78.70,B
+231011008,Dewi Lestari,84.70,B
+231011009,Rizky Maulana,70.20,B
+231011010,Maya Saril,86.70,A
+231011011,Ahmad Fauzi,81.00,B
+231011012,Lina Oktaviani,89.10,A
+231011013,Yoga Prasetyo,74.70,B
+23101104,Putri Amelia,84.30,B
+231011015,Arif Kurniawan,84.00,B
