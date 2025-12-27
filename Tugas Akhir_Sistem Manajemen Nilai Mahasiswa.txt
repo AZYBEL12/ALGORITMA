@@ -11,5 +11,6 @@
 231011011,Ahmad Fauzi,81.00,B
 231011012,Lina Oktaviani,89.10,A
 231011013,Yoga Prasetyo,74.70,B
-23101104,Putri Amelia,84.30,B
+231011014,Putri Amelia,84.30,B
 231011015,Arif Kurniawan,84.00,B
+
